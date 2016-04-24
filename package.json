@@ -1,0 +1,44 @@
+{
+  "name": "cartpool",
+  "version": "1.0.0",
+  "description": "Demo application for awesome cartpool",
+  "main": "main.js",
+  "scripts": {
+    "build": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Assam/CartPool.git"
+  },
+  "keywords": [
+    "cartpool",
+    "interview",
+    "test",
+    "awesome"
+  ],
+  "author": "assam",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babelify": "^7.2.0",
+    "browser-sync": "^2.12.3",
+    "browserify": "^13.0.0",
+    "downloadjs": "^1.4.2",
+    "express": "^4.13.4",
+    "guid": "0.0.12",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.29",
+    "jquery": "^2.2.3",
+    "node-jsx": "^0.13.3",
+    "react": "^15.0.1",
+    "react-bootstrap": "^0.29.0",
+    "react-dom": "^15.0.1",
+    "react-tools": "^0.13.3",
+    "reactify": "^1.1.1",
+    "swig": "^1.4.2",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "gulp-gh-pages": "^0.5.4"
+  }
+}
